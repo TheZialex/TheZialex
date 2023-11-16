@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheZialex
-- 👀 I’m interested in science
-- 🌱 I’m currently learning mathematics
-- 💞️ I’m looking to collaborate on nothing as of yet
+- 👀 I’m interested in science, mathmatics. 
+- 🌱 I’m currently learning how to program with C#.
+- 💞️ I also love to read.
 - 📫 How to reach me mr_zylux@protonmail.com
 
 <!---
