@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheZialex
-- 👀 I’m interested in science, mathmatics. 
+- 👀 I’m interested in science, mathmatics and technology. 
 - 🌱 I’m currently learning how to program with C#.
 - 💞️ I also love to read.
 - 📫 How to reach me mr_zylux@protonmail.com
