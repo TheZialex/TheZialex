@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheZialex
-- 👀 I’m interested in science, mathmatics and technology. 
-- 🌱 I’m currently learning how to program with C#.
+- 👀 I’m interested in physics and biology, mathmatics and technology. 
+- 🌱 I’m currently learning how to program with Python.
 - 💞️ I also love to read.
 - 📫 How to reach me mr_zylux@protonmail.com
 
