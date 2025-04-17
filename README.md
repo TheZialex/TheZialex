@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheZialex
-- 👀 I’m interested in physics and biology, mathmatics and technology. 
+- 👀 I love to write and draw NSFW stuff. 
 - 🌱 I’m currently learning how to program with Python.
 - 💞️ I also love to read.
 - 📫 How to reach me mr_zylux@protonmail.com
